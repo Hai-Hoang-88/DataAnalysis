@@ -1,7 +1,7 @@
 # DataAnalysis
 This is a fundamental course for analysis using python
 
-[The Folder]("https://github.com/Hai-Hoang-88/DataAnalysis/tree/main/Pandas-Data-Science-Tasks-master") is tackle the problem from sale input  
+[The Folder](https://github.com/Hai-Hoang-88/DataAnalysis/tree/main/Pandas-Data-Science-Tasks-master) is tackle the problem from sale input  
 Input is 12 months sale records. Then we solve tasks:
 - Merging 12 csv
 - Export output
